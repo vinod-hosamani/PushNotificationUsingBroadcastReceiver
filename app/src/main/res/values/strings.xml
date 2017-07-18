@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BroadCaseReceiver3</string>
+    <string name="date_format_month">MMMM dd, yyyy HH:mm:ss</string>
+</resources>
